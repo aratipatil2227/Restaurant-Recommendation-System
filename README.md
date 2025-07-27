@@ -20,10 +20,6 @@ conda create -n restaurant_recommender python=3.10
 # Activate the environment
 conda activate restaurant_recommender
 
-# Clone the repository
-git clone https://github.com/PrajaktaPatil3112/Restaurant-Recommendation-System.git
-cd Restaurant-Recommendation-System/Flask
-
 # Install dependencies
 pip install -r requirements.txt
 ```
